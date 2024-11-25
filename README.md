@@ -27,7 +27,6 @@ This **LLM Response Evaluation System** allows users to generate a response usin
 
 ```bash
 git clone https://github.com/your-repo/LLM-Response-Evaluation.git
-cd LLM-Response-Evaluation
 ```
 
 2. Go to the project directory
