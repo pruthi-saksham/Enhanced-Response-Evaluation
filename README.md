@@ -70,6 +70,8 @@ python -m streamlit run app.py
 - *Moderate Similarity (0.6 ≤ Score ≤ 0.8)*: The response captures some of the key points, but room for improvement exists.
 - *Low Similarity (Score < 0.6)*: The response deviates significantly from the ideal, and feedback suggests revising the response or the ideal.
 
+  `The response and the similarity score will vary based on the model selected`
+
 # Acknowledgments
 
 - **Streamlit** for making interactive web applications with Python easy.
