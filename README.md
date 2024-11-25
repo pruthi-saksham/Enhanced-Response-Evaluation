@@ -80,7 +80,7 @@ python -m streamlit run app.py
 This comprehensive set of functions ensures smooth operation, robust document processing, and an interactive user experience.
 
 # Condition
-  *The response and the similarity score will vary based on the model selected*
+  *The response and the similarity score will vary based on the model selected*.
 
 # 🚀 About Me
 Hi, I’m Saksham Pruthi, an AI Engineer passionate about creating innovative AI-powered solutions. I specialize in Generative AI, designing systems that bridge cutting-edge research and practical applications. With expertise in various AI frameworks and an eye for scalable technology, I enjoy tackling challenging projects that drive real-world impact.
