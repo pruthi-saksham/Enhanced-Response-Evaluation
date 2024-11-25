@@ -70,7 +70,6 @@ python -m streamlit run app.py
 - *Moderate Similarity (0.6 ≤ Score ≤ 0.8)*: The response captures some of the key points, but room for improvement exists.
 - *Low Similarity (Score < 0.6)*: The response deviates significantly from the ideal, and feedback suggests revising the response or the ideal.
 
-  `The response and the similarity score will vary based on the model selected`
 
 # Acknowledgments
 
@@ -79,6 +78,9 @@ python -m streamlit run app.py
 - **HuggingFace** for providing the embeddings and language models used in the evaluation.
 
 This comprehensive set of functions ensures smooth operation, robust document processing, and an interactive user experience.
+
+# Condition
+  *The response and the similarity score will vary based on the model selected*
 
 # 🚀 About Me
 Hi, I’m Saksham Pruthi, an AI Engineer passionate about creating innovative AI-powered solutions. I specialize in Generative AI, designing systems that bridge cutting-edge research and practical applications. With expertise in various AI frameworks and an eye for scalable technology, I enjoy tackling challenging projects that drive real-world impact.
