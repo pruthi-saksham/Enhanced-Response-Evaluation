@@ -44,7 +44,7 @@ pip install -r requirements.txt
 4. Start the server
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 5. *Open the app in your browser. The Streamlit interface will allow you to*:
