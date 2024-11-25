@@ -76,3 +76,15 @@ streamlit run app.py
 - **LangChain** for enabling AI-powered responses.
 - **HuggingFace** for providing the embeddings and language models used in the evaluation.
 
+This comprehensive set of functions ensures smooth operation, robust document processing, and an interactive user experience.
+
+# 🚀 About Me
+Hi, I’m Saksham Pruthi, an AI Engineer passionate about creating innovative AI-powered solutions. I specialize in Generative AI, designing systems that bridge cutting-edge research and practical applications. With expertise in various AI frameworks and an eye for scalable technology, I enjoy tackling challenging projects that drive real-world impact.
+
+# 🛠 Skills
+**Programming Languages**: Python, C++
+**Generative AI Technologies**: Proficient in deploying and fine-tuning a variety of LLMs including Llama2, GPT (OpenAI), Mistral, Gemini Pro using frameworks like Hugging Face, OpenAI and Groq. Expertise in NLP tasks like tokenization, sentiment analysis, summarization, and machine translation. Skilled in computer vision (CV) with models for image classification, object detection, and segmentation (YOLO). Expertise in MLOps, building and maintaining pipelines for model training and monitoring. Proficient in conversational AI with platforms LangChain. Skilled in synthetic data generation and code generation
+**Vector Databases and Embedding Libraries**: Proficient in ChromaDB and FAISS for efficient vector storage, retrieval, and similarity search.
+**Frameworks, Tools & Libraries**: LangChain, HuggingFace , OpenAI API, Groq, TensorFlow, PyTorch, Streamlit.
+**Databases**: MongoDB, ChromaDB
+**Version Control**: Proficient in using Git for version control and GitHub for collaborative development, repository management, and continuous integration workflows.
